@@ -1,4 +1,4 @@
-# Positon-Open-Helper-Future-Trading
+# Position-Open-Helper-Future-Trading
 
 The Position-Open-Helper is a utility Expert Advisor that helps you speed up your day trading, by automatically creating (upon loading) movable lines for open-trade, stop-loss, take-proffit.
 Once created, you can move then to where you want you position to open, have stop-loss and take-proffit. Then you can open the trade with preset risk, and based on stop-loss and risk percentage - you even get a pre-computed lot size (volume). 
